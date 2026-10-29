@@ -12,8 +12,8 @@
 
 ## Student Information
 
-- **Student Name:** ____________________
-- **Student ID:** ____________________
+- **Student Name:** M.Ayyan Khan 
+- **Student ID:** 042
 - **Course:** Artificial Intelligence Lab
 - **Lab Number:** 5
 

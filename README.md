@@ -6,7 +6,7 @@
 **Week:** 5  
 **Lectures:** L11–L12  
 **CLO:** CLO2 (C3: Apply)  
-**Programming Language:** Python
+**Programming Language:** Python.
 
 ---
 
